@@ -12,6 +12,8 @@
 
 ## Hướng Dẫn Chạy
 
+clone: https://github.com/PhuocVO94/LogicTest_1.git
+
 - npm install
 
 ### Cách 1
